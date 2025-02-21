@@ -1,4 +1,4 @@
-# Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss
+# Consistency of augmentation graph and network approximability in contrastive learning
 
 This is a PyTorch implementation of the [augmented spectral contrastive learning paper](https://arxiv.org/abs/2502.04312).
 
